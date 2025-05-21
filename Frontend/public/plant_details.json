@@ -1,0 +1,152 @@
+[
+    {
+        "_id": "6810aefdf17e37a05f8f2711",
+        "name": "Aloe Vera",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745936963/kvfwga8jhfnwqf1poxgt.png"
+    },
+    {
+        "_id": "6810b205770b328004e30d3d",
+        "name": "Money Plant",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937092/mfojmmnffgme1g2ai7wh.png"
+    },
+    {
+        "_id": "6810b428770b328004e30d73",
+        "name": "Snake Plant",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937107/mnncga6iszy0n9x9pk2w.png"
+    },
+    {
+        "_id": "6810b65f770b328004e30d75",
+        "name": "Peace Lily",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937127/uylv9yz4hmbgpyd3qhw6.png"
+    },
+    {
+        "_id": "6810b73d770b328004e30d77",
+        "name": "Orchid",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937142/f4rn8ae6rxiggm6coalj.png"
+    },
+    {
+        "_id": "6810b845770b328004e30d7d",
+        "name": "Lucky Bamboo",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937156/topbifghbojjnvanywob.png"
+    },
+    {
+        "_id": "6810b972770b328004e30d7f",
+        "name": "Spider Plant",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937172/wrqfrpzcy4bn5ssk69ci.png"
+    },
+    {
+        "_id": "6810ba2a770b328004e30d81",
+        "name": "Adenium",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937187/yyrrqt47zhfq4g5mgm9s.png"
+    },
+    {
+        "_id": "6810bb2f770b328004e30d83",
+        "name": "Apple",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937205/arrba6iaypnwqj2oyywl.png"
+    },
+    {
+        "_id": "6810bbb4770b328004e30d85",
+        "name": "Banana",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937236/wfgyyjvwovneaavd0pas.png"
+    },
+    {
+        "_id": "6810bc73770b328004e30d87",
+        "name": "Coconut",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937249/cparf1vlznwmb2u9sljb.png"
+    },
+    {
+        "_id": "6810bcf9770b328004e30d89",
+        "name": "Grape",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937324/u1l1bpwuuckvvxoejpat.png"
+    },
+    {
+        "_id": "6810bd76770b328004e30d8b",
+        "name": "Dragon Fruit",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937338/nohx3ui2rqqpzmysj7yx.png"
+    },
+    {
+        "_id": "6810bde6770b328004e30d8d",
+        "name": "Strawberry",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937411/a4zgziemp6maf4amw8fu.png"
+    },
+    {
+        "_id": "6810c424770b328004e30d8f",
+        "name": "Mango",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937433/zsethoyjj5sw39igr5vg.png"
+    },
+    {
+        "_id": "6810c557770b328004e30d91",
+        "name": "Amla",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937446/g8j43yyhng5tf6dkcvu6.png"
+    },
+    {
+        "_id": "6810c638770b328004e30d93",
+        "name": "Apricot",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937462/k4yobpzi2mccmd5vcbyw.png"
+    },
+    {
+        "_id": "6810c706770b328004e30d95",
+        "name": "Cherry",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937816/kwpkn3pqazxopufv9gps.png"
+    },
+    {
+        "_id": "6810caeb770b328004e30d97",
+        "name": "Blackberry",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937522/vnfyasyid4g2ihpdvqs8.png"
+    },
+    {
+        "_id": "6810cb82770b328004e30d99",
+        "name": "Almond",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937537/bq92yfbo8pdz7hvvmnqg.png"
+    },
+    {
+        "_id": "6810cc84770b328004e30d9b",
+        "name": "Dahlia",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937552/rtmlftlh7tgenp9zdbyj.png"
+    },
+    {
+        "_id": "6810cd2d770b328004e30d9f",
+        "name": "Jasmine",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937571/vlzkzudlpbqcjahib39z.png"
+    },
+    {
+        "_id": "6810d11b770b328004e30da1",
+        "name": "Marigold",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937586/gvkdesnqgbpq9vgucqyq.png"
+    },
+    {
+        "_id": "6810d197770b328004e30da3",
+        "name": "Petunia",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937600/toekxhq9bd0wpfaq8pd3.png"
+    },
+    {
+        "_id": "6810d299770b328004e30da5",
+        "name": "Rose",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937616/ttjwyz9richaqeetoc20.png"
+    },
+    {
+        "_id": "6810d404770b328004e30da7",
+        "name": "Sunflower",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937636/qx1at5h6rmpvoorktnju.png"
+    },
+    {
+        "_id": "6810d4e1770b328004e30dab",
+        "name": "Cosmos",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937647/t5jfybaj2cicknsowcjh.png"
+    },
+    {
+        "_id": "6810d534770b328004e30dad",
+        "name": "Gerbera Daisy",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937678/rgexaliaccgcmoouujtk.png"
+    },
+    {
+        "_id": "6810d5e5770b328004e30daf",
+        "name": "Hibiscus",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937694/gd83j7ykczzqqggqamc8.png"
+    },
+    {
+        "_id": "6810d63d770b328004e30db1",
+        "name": "Kalanchoe",
+        "image": "https://res.cloudinary.com/dpizvdkya/image/upload/v1745937713/mclrekkpsmu5v3ehoyx9.png"
+    }
+]
