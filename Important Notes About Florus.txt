@@ -1,11 +1,8 @@
 Website Name : F L O R U S
 
-// correct way to insert a csv file into database collection --- first create a collection
-mongoimport --uri "mongodb+srv://aniketbasu2207:aniketbasu2207@cluster0.mvnnflk.mongodb.net/" --collection pincode_details --type csv --headerline --file "C:\Users\Admin\Desktop\Smart Gardening\Plant_Details.csv"
-
 
 // MongoDB connection URI
-MONGO_URI = mongodb+srv://aniketbasu2207:aniketbasu2207@cluster0.mvnnflk.mongodb.net/
+MONGO_URI = mongodb+srv://username:password@cluster0.mvnnflk.mongodb.net/
 PORT = 5000
 
 
@@ -14,13 +11,12 @@ JWT_SECRET = asdfghjkl
 
 
 // Razorpay
-RAZORPAY_ID_KEY="rzp_test_xvocWkZYSKWbhF"
-RAZORPAY_SECRET_KEY="9uKsrbYEPv395y10vlOA9oED"
-
+RAZORPAY_ID_KEY=
+RAZORPAY_SECRET_KEY=
 
 // cloudinary
-email id : jimaci5161@boyaga.com
-pass : Aniket@1947
+email id : 
+pass : 
 
 
 // To run frontend
