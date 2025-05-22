@@ -1,8 +1,6 @@
 const mongoose=require('mongoose')
 const Order = require('../models/Order.model'); // or correct path
 const Cart=require('../models/AddToCart.model');
-
-// const Plant = require('../models/PlantManagementModel'); // adjust path as needed
 const User = require('../models/User');
 const Profile=require('../models/profileModel');
 
