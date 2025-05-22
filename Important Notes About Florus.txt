@@ -15,8 +15,8 @@ RAZORPAY_ID_KEY=
 RAZORPAY_SECRET_KEY=
 
 // cloudinary
-email id : 
-pass : 
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_UPLOAD_PRESET
 
 
 // To run frontend
