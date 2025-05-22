@@ -259,8 +259,8 @@ const PlantManagement = () => {
 
     const data = new FormData();
     data.append("file", file);
-    data.append("upload_preset", "Florus_Image_Cloudinary");
-    data.append("cloud_name", "dpizvdkya");
+    data.append("upload_preset", process.env.CLOUDINARY_UPLOAD_PRESET);
+    data.append("cloud_name", process.env.CLOUDINARY_CLOUD_NAME);
 
     try {
       // Upload image to Cloudinary
