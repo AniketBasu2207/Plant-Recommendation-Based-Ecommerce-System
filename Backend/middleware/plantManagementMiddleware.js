@@ -1,5 +1,4 @@
 const Plant = require('../models/PlantManagementModel');
-// const cloudinary = require('../config/cloudinary');
 
 // Validate plant data
 exports.validatePlantData = (req, res, next) => {
