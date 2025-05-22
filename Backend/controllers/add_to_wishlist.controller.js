@@ -1,7 +1,5 @@
 const mongoose=require('mongoose')
 const AddToWishlist = require('../models/AddToWishlist.model'); // or correct path
-// const Plant = require('../models/PlantManagementModel'); // adjust path as needed
-
 
 const add_to_wishlist = async (req, res) => {
   try {
