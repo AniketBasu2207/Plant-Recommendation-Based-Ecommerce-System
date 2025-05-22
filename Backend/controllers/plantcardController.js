@@ -1,6 +1,3 @@
-const Plant = require('../models/plantModel'); // Update this path to match your existing model file
-
-// Rest of the controller code remains the same
 exports.getPlantsForCards = async (req, res) => {
   try {
     const { category } = req.query;
