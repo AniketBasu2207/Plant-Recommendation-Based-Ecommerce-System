@@ -2,12 +2,12 @@ Website Name : F L O R U S
 
 
 // MongoDB connection URI
-MONGO_URI = mongodb+srv://username:password@cluster0.mvnnflk.mongodb.net/
+MONGO_URI = 
 PORT = 5000
 
 
 // JWT Secret Key
-JWT_SECRET = asdfghjkl
+JWT_SECRET = 
 
 
 // Razorpay
@@ -26,15 +26,6 @@ cd Frontend -> npm run dev
 // To run backend
 cd Backend -> npm start
 
-
-// Admin Id and Pass (localhost:5143/admin)
-id - Admin
-pass- 87654321
-
-
-// User Id and Pass (localhost:5143)
-id - aniket@gmail.com, subhankar@gmail.com, salman@gmail.com
-pass - 12345678 for every user
 
 
 // Third party API Used
